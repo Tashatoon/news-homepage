@@ -1,5 +1,6 @@
 body {
     padding-top: 10px;
+
 }
 
 .image-web {
@@ -15,3 +16,11 @@ ul li {
     float: right;
 }
 
+.news-headlines h2 {
+    font-family: 'Inter';
+    color: hsl(240, 100%, 5%);
+}
+
+.news-headlines p {
+    font-size: 15px;
+}
