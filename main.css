@@ -23,6 +23,7 @@ ul li {
 }
 
 .news-headlines p {
+    line-height: 25px;
     font-size: 15px;
     color: hsl(233, 8%, 79%);
 }
@@ -30,10 +31,11 @@ ul li {
 .news-headlines button {
     width: 110px;
     margin-bottom: 60px;
+    border: 0;
     padding: 5px;
     color: white;
     background-color: red;
-    border: 0;
+    font-family: 'Inter';
     text-transform: uppercase;
 }
 
