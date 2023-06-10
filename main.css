@@ -33,3 +33,15 @@ ul li {
     border: 0;
     text-transform: uppercase;
 }
+
+.news-blog {
+    background-color: hsl(240, 100%, 5%);
+}
+
+.news-blog h2{
+    color: rgb(192, 150, 84);
+}
+
+.news-blog h3, p {
+    color: white;
+}
