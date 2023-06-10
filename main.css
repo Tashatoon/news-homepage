@@ -23,6 +23,7 @@ ul li {
 
 .news-headlines p {
     font-size: 15px;
+    color: hsl(233, 8%, 79%);
 }
 
 .news-headlines button {
@@ -35,13 +36,22 @@ ul li {
 }
 
 .news-blog {
+   
     background-color: hsl(240, 100%, 5%);
 }
 
 .news-blog h2{
+    position: relative;
+    left: 20px;
     color: rgb(192, 150, 84);
 }
 
-.news-blog h3, p {
+.news-blog h3, .news-blog p {
+    position: relative;
+    left: 20px;
     color: white;
 }
+
+
+
+
