@@ -24,3 +24,8 @@ ul li {
 .news-headlines p {
     font-size: 15px;
 }
+
+.news-headlines button {
+    color: white;
+    background-color: red;
+}
