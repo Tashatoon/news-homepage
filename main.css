@@ -26,6 +26,10 @@ ul li {
 }
 
 .news-headlines button {
+    width: 110px;
+    padding: 5px;
     color: white;
     background-color: red;
+    border: 0;
+    text-transform: uppercase;
 }
