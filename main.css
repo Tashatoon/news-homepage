@@ -1,4 +1,17 @@
+body {
+    padding-top: 10px;
+}
+
+.image-web {
+    padding-top: 15px;
+}
+
 ul li {
     float:right;
     list-style: none;
 }
+
+.nav-news {
+    float: right;
+}
+
